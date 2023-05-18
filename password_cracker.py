@@ -2,7 +2,7 @@
 # check hash against list of frequently-used passwords
 # freecodecamp infosec project:
 # https://www.freecodecamp.org/learn/information-security/information-security-projects/sha-1-password-cracker
-# https://replit.com/@holleyst/boilerplate-SHA-1-password-cracker
+# https://replit.com/@holleyst/password-cracker
 
 import hashlib
 
